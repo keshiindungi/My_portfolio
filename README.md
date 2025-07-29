@@ -1,4 +1,4 @@
-# My_portfoli
+# My_portfolio
 Joan Ndungi Portfolio
 
 Welcome to my personal web portfolio! This project showcases who I am as a Web Developer, my skills, and how to reach me.
